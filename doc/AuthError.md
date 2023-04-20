@@ -1,0 +1,16 @@
+# openapi.model.AuthError
+
+## Load the model package
+```dart
+import 'package:labrinth/api.dart';
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**error** | [**Object**](.md) | The name of the error | 
+**description** | [**Object**](.md) | The contents of the error | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
